@@ -117,6 +117,12 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 	- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 	- [Complete Python tutorials](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 	- [Python Tutorial  | Tutlane](https://www.tutlane.com/tutorial/python)
+	- [ Python  Course by IIT M | You Tube ](https://www.youtube.com/watch?v=8ndsDXohLMQ&list=PLZ2ps__7DhBb2cXAu5PevO_mzgS3Fj3Fs)
+	- [ Real Python ](https://realpython.com/)
+	- [ Finxter Learn, Train and get feedback ](https://finxter.com/)
+    - [Python Tutor  | For Visualization](https://pythontutor.com/visualize.html#mode=edit)
+    - [Code Combat (Python and JavaScript options)](https://codecombat.com/)
+
 
 -  **Best GitHub Repositories to follow**
      - [The Algorithms Python](https://github.com/TheAlgorithms/Python)
@@ -322,6 +328,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 - **Bootstrap 5**
 
     - [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
+    - [Sneat Free Bootstrap 5 HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
 
 - **JavaScript**
     - [JS MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
@@ -369,6 +376,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
         - [Complete React Tutorial (& Redux) | YouTube](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
         - [ReactJS Tutorial | Codecademy](https://www.codecademy.com/learn/react-101) - Interactive
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
+        - [Reactstrap - React Bootstrap 4 Components](https://reactstrap.github.io/)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
         - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
@@ -427,7 +435,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 - **Online Platforms**
     - [CodeChef](https://www.codechef.com/) - CodeChef competitive programming site
-    - [CodeSignal](https://codesignal.com/) - (formerly CodeFights)Fun gaming approach to Coding contests and Interview practices.
+    - [CodeSignal](https://codesignal.com/) - (formerly CodeFights) Fun gaming approach to Coding contests and Interview practices.
     - [Codeforces](https://codeforces.com/) - Great site for preparing for programming contests
     - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - Must do coding questions for product based companies
     - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - Code Monk to start with programming - programming fundamentals
@@ -437,6 +445,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
     - [AlgoDaily](https://algodaily.com/) - Daily interview questions sent by mail, as well as a full course and online IDE as well as visualizations and tutorials to solve the problems
     - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
     - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
+    - [Prepbytes](https://mycode.prepbytes.com/interview-coding/practice) - Prepbytes Coding Platform - Get problems as per your coding skills.
     - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
     - [Codewars](https://www.codewars.com/) - Interesting ranking system with beautiful UI for competitive programming and interview prep.
     - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
@@ -587,8 +596,33 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 
 ## 1.22 Full-Stack Web Development
-- [App Academy **FREE** Online Curriculum](https://open.appacademy.io/)
--[The Odin Project - Ruby & JS tracks](https://www.theodinproject.com/)
+ For Becoming a Full-Stack Web Developer you need to know about Front-End & Back-End.
+ - [How The Internet Works](https://www.youtube.com/watch?v=7_LPdttKXPc) Things Like Hosting, DNS, HTTPS, Browsers, Domain Names.
+ - [Basic Tools]() Tools Like : Text Editor (Visual Studio Code), Terminal(hyper), Design(Figma).
+ - [HTML](https://www.youtube.com/watch?v=XiQ9rjaa2Ow) Best Practices, Semantic HTML, Forms & Validations, Accessibility, SEO.
+ - [CSS](https://www.youtube.com/watch?v=Tfjd5yzCaxk) [Flexbox](https://www.youtube.com/watch?v=qqDH0T6K5gY), [CSS Grid](https://www.youtube.com/watch?v=BDOzg4lXcSg), Custom Properties,[Animations/Transitions](https://animejs.com/), Responsive Design, CSS Preprocessor, Modern CSS, CSS Frameworks [Tailwind CSS](https://tailwindcss.com/),[Bootstrap](https://getbootstrap.com/).
+ ## Front-End Starts
+ - [JavaScript](https://www.youtube.com/watch?v=jS4aFq5-91M)
+ - [TypeScript](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+ - [Front-End Framework] : [React](https://www.youtube.com/watch?v=UGcALH8kPC0&list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0), [Vue](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA), [Angular](https://www.youtube.com/watch?v=Fdf5aTYRW0E), [Svelte](https://www.youtube.com/watch?v=uK2RnIzrQ0M).
+ - [State Management] : [ Context API (React)](https://www.youtube.com/watch?v=35lXWvCuM8o), [Redux (React)](https://www.youtube.com/watch?v=CVpUuw9XSjY), [Vuex (Vue)](https://www.youtube.com/watch?v=oxUyIzDbZts), [Services (Angular)]().
+ - [Server Side Rendering (SSR)] : [Gatsby (React)](https://www.youtube.com/user/Weibenfalk), [Gridsome (Vue)](https://www.youtube.com/watch?v=vB6rmWCmANA), [Next.js (React)](https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ), [Nuxt.js (Vue)](https://www.youtube.com/watch?v=ltzlhAxJr74), [11ty]().
+ - [Static Site Generators] : [Next.js (React)](https://www.youtube.com/channel/UC7Wpv0Aft4NPNhHWW_JC4GQ), [Nuxt.js (Vue)](https://www.youtube.com/watch?v=ltzlhAxJr74).
+ - [Package Managers] : [NPM](), [Yarn]().
+ - [Module Bundlers] : [Webpack](), [Parcel](), [Rollup]().
+ - [Version Control] : [Git](), [GitHub]().
+ - [GraphQl](https://www.youtube.com/watch?v=ed8SzALpx1Q).
+ - [Progressive Web Apps (PWA)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7).
+ - [JAMstack](https://www.youtube.com/watch?v=73b1ZbmB96I)
+ - [Web Assembly](https://www.youtube.com/watch?v=cbB3QEwWMlA).
+ - [Speech Recognition](https://alan.app/).
+ ## Back-End Starts
+ - [Pick A Language] : [JavaScript (Node.js)](https://www.youtube.com/watch?v=fBNz5xF-Kx4), [JavaScript (Deno)](https://www.youtube.com/watch?v=3Vt_cjgojDI), [Python](https://www.youtube.com/user/CalebTheVideoMaker2), [Rust](https://www.youtube.com/watch?v=zF34dRivLOw), [C#](https://www.youtube.com/watch?v=GhQdlIFylQ8), [Java](https://www.youtube.com/watch?v=GoXwIVyNvX0), [PHP](https://www.youtube.com/watch?v=OK_JCtrrv-c), [Go](https://www.youtube.com/watch?v=YS4e4q9oBaU), [Ruby](https://www.youtube.com/watch?v=t_ispmWmdjY).
+ - [Back-End Frameworks] : [Laravel (PHP)](https://www.youtube.com/watch?v=MFh0Fd7BsjE), [Spring (Java)](https://www.youtube.com/watch?v=vtPkZShrvXQ), [Ruby on Rails (Ruby)](https://www.youtube.com/watch?v=B3Fbujmgo60), [Express (Node.js)](https://www.youtube.com/watch?v=L72fhGm1tfE), [Django (Python)](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg), [Flask (Python)](https://www.youtube.com/watch?v=Z1RJmh_OqeA), [Blazor (C#)](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw).
+ - [Databases] Types : Relational [✅  PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4), [MySQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg), [Azure Cloud SQL](), [MS SQL]() & NoSQL / Cloud [✅ MongoDB](https://www.youtube.com/watch?v=-56x56UppqQ), [AWS](), [Airtable](https://www.youtube.com/watch?v=FEoEvSmtmPQ), [FaunaDB](https://www.youtube.com/watch?v=2CipVwISumA), [Firebase](https://www.youtube.com/watch?v=9kRgVxULbag).
+ - [APIs](https://www.youtube.com/watch?v=FLnxgSZ0DG4).
+ - [Authentication] Providers [Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc), [Firebase](https://www.youtube.com/watch?v=PKwu15ldZ7k)
+ 
 
 ## 1.23 Go Language
 - [Go,Progate](https://progate.com/languages/go)
@@ -687,6 +721,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 6. BrazilJS Conference [August, RS, Brazil](https://braziljs.org/conf/)
 7. Hackathon at the NS [Netherlands](https://werkenbijns.nl/hackathon/)
 8. [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+9. [Codementor Events](https://www.codementor.io/events)
 
 
 ## 2.5 Startup Summits, Competitions and Bootcamps :neckbeard:
@@ -742,6 +777,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 16. [Frontbench Campus Ambassador](https://frontbench.xyz/campus-connect)
 17. [Codechef Campus Ambassador](https://www.codechef.com/college-chapter/about)
 18. [AWS Educate(Amazon)](https://aws.amazon.com/education/awseducate/students/ "AWS")
+19. [Codementor for Students](https://www.codementor.io/students)
 
 
 ## Student Benefits and Packs :v:
@@ -903,39 +939,29 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 > ### **Tech, Entrepreneurship Events and Conferences**
 
-|Id | Name | Place| Travel Reimbursement |Timeline | Deadline | Type |
+|Id | Name | Place | Travel Reimbursement | Timeline | Deadline | Type |
 |--|------ |---|---|:------ |:----|:-----|
-|1 | [PyCon US-Python Conference USA](https://us.pycon.org/2019/) |  USA | No |  Apr 15-23, 2020 | - | Python |
-|2 | [ODSC ](https://odsc.com/) | Global | No | Varies | - | AI |
-|3 | [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes |  Mar 2-6. 2020| - | Business |
-|4 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes| Nov 24 | Nov 26  | Business |
-|5 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | PASSED | - | - |
-|6 | [DotJS](https://www.dotjs.io/) | France | - | Dec 5 | Dec 6 | JS |
-|7 | [PyCon](https://www.pycon.fr/2018/) | France | - | Oct 4 | Oct 7 | Python |
-|8 | [React Europe](https://www.react-europe.org/) | France | - | May 14-15, 2020 | - | JS |
-|9 | [Dublin Web Summit](https://websummit.net/ ) | Dublin | No | Nov 4 | Nov 7 | Web |
-|10| [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
-|11| [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Oct 1-4, 2019 | - | - |
-|12| [MIT Global Startup Workshop](http://mitgsw.org/2015/) | USA | - | PASSED | - | - |
-|13| [Thiel Summit](http://summit.thielfellowship.org/) | USA | - | - | - | - |
-|14| [Stanford E-Bootcamp](https://www.gsb.stanford.edu/exec-ed/programs/redwood-city/entrepreneurship-boot-camp)  | USA | - | - | Closed | - |
-|15| [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Mar to Oct (varies every year) | 3 days | - |
-|16| [South American Business Forum](https://www.sabf.org.ar/) | Argentina | Partial | PASSED | - | Business |
-|17| [Capital One Summit for Developing Leaders](https://campus.capitalone.com/summits/) | Virginia | Yes | PASSED | - | - |
-|18| [KPMG Future Diversity Leaders](https://scholarshipscorner.website/kmpg-future-diversity-leaders-summer-leadership-program-2018/) | California | Yes | Summer | - | - |
-|19| [Microsoft Tech Summit](https://www.microsoft.com/en-in/techsummit) | Global| No | - | - | - |
-|20| [Tech in Asia Bangalore](http://events.techinasia.com/bangalore/) | India | - | - | - | - |
-|21| [SURGE](https://surgeconf.com/surge2017) | India | - | Nov | - | - | - |
-|22| [Amazon Web Services Global Summit 2017](https://aws.amazon.com/summits/) | India | No | Varies | - | - |
-|23| [TechCrunch Disrupt](https://techcrunch.com/event-info/disrupt-sf-2018/) | USA | No | PASSED | - | - |
-|24| [Tie Global Summit](http://www.tieglobalsummit.org/) | New Delhi, India | No | Nov 24 | Nov 25 | - |
-|25| [Pioneer Application](https://pioneer.app/) | Global | Yes | - | - | - |
-|26| [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
-|27| [Hackference India ](http://hackference.in/) | India | No | Nov | Mid Dec | - |
-|28| [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | March 17-19, 2020 | - | Lectures, Trainings, Community Activities |
-|29| [Git Merge](https://git-merge.com) | Belgium | - | PASSED | - |  Technical talks and hands-on workshops |
-|30| [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
-|31| [Agile On The Beach](https://agileonthebeach.com/) | Cornwall, United Kingdom | No | July 9-10, 2020 | - | Technical talks and hands-on workshops |
+|1 | [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) | Global | No | April 20, 2022 | April 21, 2022 | No | - |
+|2 | [PyCon US-Python Conference USA](https://us.pycon.org/2022/) |  Salt Lake City, USA | No |  April 27, 2022 | May 3, 2022 | Python |
+|3| [World Business Dialogue](https://www.world-business-dialogue.com/)| Global | Yes | June 6, 2022 | June 20, 2022 | - | Business |
+|4 | [Asia Pacific Week](http://asiapacificweek.anu.edu.au/) | Australia | Partial | June 20, 2022 | June 23, 2022 | - |
+|5 | [AWS Summit, New Dehli](https://aws.amazon.com/events/summits/new-delhi/) | India | No | Sept 9, 2022 | - | - |
+|6 | [Grace Hopper Conference and Fellowship](https://ghc.anitab.org) | Orlando, FL, USA | Yes | Sept 20, 2022 | Sept 23, 2022 | - |
+|7 | [TechCrunch Disrupt](https://techcrunch.com/events/tc-disrupt-2022/) | USA | No | Oct 18, 2022 | Oct 20, 2022 | - |
+|8 | [Dublin Web Summit](https://websummit.net/) | Dublin | No | Nov 1, 2022 | Nov 4, 2022 | Web |
+|9 | [Web Summit](https://websummit.com/) | Lisbon | - | Nov 1, 2022 | Nov 4, 2022 | - | - |
+|10 | [Clinton Global Initiative University](http://www.cgiu.org/) | USA | - | Varies | Varies | - |
+|11 | [ODSC](https://odsc.com/) | Global | Varies | Varies | - | AI |
+|12 | [Business Today Conference](https://businesstoday.org/conferences/)| New York | Yes | PASSED | Business |
+|13 | [DotJS](https://www.dotjs.io/) | France | - | PASSED | JS |
+|14 | [PyCon](https://www.pycon.fr/2018/) | France | - | PASSED | Python |
+|15 | [React Europe](https://www.react-europe.org/) | France | - | PASSED | - | JS |
+|16 | [Harvard Project for Asian and International Relations](https://www.hpair.org/)  | Malaysia | Yes | PASSED | - | - |
+|17 | [Student Leadership conference](https://studentleadershipconference.com/) | USA | Yes | PASSED | - | - |
+|18 | [Hackference India ](https://hackference.in/) | India | No | PASSED | - |
+|19 | [JavaLand](https://www.javaland.eu/en/home/) | Germany | - | PASSED | - | Lectures, Trainings, Community Activities |
+|20 | [WWDC (Apple World Wide Developer Conference)](https://wwdc.apple.com) | San Jose, USA | Can Apply | PASSED | - | Apple new technology launch events, Swift |
+
 
 
 ## Data Science Conferences in 2019 and 2020
@@ -1007,6 +1033,14 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
       - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
       - [Kaggle Learn](https://www.kaggle.com/learn/overview)
       - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
+      - [Towards AI](https://towardsai.net/)
+      - [Analytics Vidhya](https://www.analyticsvidhya.com/)
+      - [Towards Data Science](https://towardsdatascience.com/)
+      - [Real Python](https://realpython.com/tutorials/data-science/)
+      - [Edureka](https://www.edureka.co/blog/category/data-science/)
+      - [KD nuggets](https://www.kdnuggets.com/)
+      - [Elements of AI](https://www.elementsofai.com/)
+      - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 2.   **Startup News and Stories**
       -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
